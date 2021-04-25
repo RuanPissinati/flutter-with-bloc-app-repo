@@ -1,4 +1,4 @@
-#Sun Apr 25 19:28:38 BRT 2021
-base.0=/Users/ruanpissinati/RuanPissinati/Estudos/Flutter_Projects/bloc_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Sun Apr 25 20:07:17 BRT 2021
+base.0=/Users/ruanpissinati/RuanPissinati/Estudos/Flutter_Projects/bloc_app/app-flutter-bloc/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

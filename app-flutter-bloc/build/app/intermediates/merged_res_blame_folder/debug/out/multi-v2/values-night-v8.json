@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ruanpissinati/RuanPissinati/Estudos/Flutter_Projects/bloc_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/ruanpissinati/RuanPissinati/Estudos/Flutter_Projects/bloc_app/app-flutter-bloc/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/ruanpissinati/RuanPissinati/Estudos/Flutter_Projects/bloc_app/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/ruanpissinati/RuanPissinati/Estudos/Flutter_Projects/bloc_app/app-flutter-bloc/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
